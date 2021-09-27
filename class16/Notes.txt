@@ -1,0 +1,13 @@
+This Class Tells how you canhost your React App 
+Step 1 type and run npm run build command on terminal that bundles your React app to plain Javascript and simple plain form allows to load easily
+Step 2 Using a site Surge 
+for this npm install --g surge on cmd terminal
+then surge
+then extend directory by typing \build
+enter or select the default domain name
+See Your Website on at that domain name
+
+More on React Advance topics you can See
+React Router
+Formik(For ract Forms)
+FireBase(Backend of react)
